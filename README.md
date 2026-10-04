@@ -17,5 +17,5 @@ Boards install a package only if its signature matches the Team Tactical RC rele
 ## Notes
 
 - This repository holds only release packages; development happens elsewhere.
-- No license has been chosen yet, so all rights are reserved. Please don't redistribute these packages.
+- LayerHound is licensed under the **GNU Affero General Public License v3.0** (the full text is in each package's source). The **LayerHound name, logo and mascot are trademarks of Team Tactical RC** and aren't covered by that license, so modified versions must use their own name.
 - To report a security problem, see the security policy in the release notes or contact Team Tactical RC.
